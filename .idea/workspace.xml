@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Return Negative Kata Solution" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Tribonacci Sequence Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,8 +176,27 @@
       <option name="project" value="LOCAL" />
       <updated>1715174845641</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Tribonacci Sequence Kata start">
+      <option name="closed" value="true" />
+      <created>1715174958522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715174958522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="environment start" />
@@ -182,6 +204,7 @@
     <MESSAGE value="Categorize New Member Kata Solution" />
     <MESSAGE value="Return Negative Kata Start" />
     <MESSAGE value="Return Negative Kata Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Return Negative Kata Solution" />
+    <MESSAGE value="Tribonacci Sequence Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tribonacci Sequence Kata start" />
   </component>
 </project>
