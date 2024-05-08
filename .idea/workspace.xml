@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Return Negative Kata Start">
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Return Negative Kata Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715174198335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Return Negative Kata Solution">
+      <option name="closed" value="true" />
+      <created>1715174845641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715174845641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,6 +181,7 @@
     <MESSAGE value="Categorize New Member Kata Start" />
     <MESSAGE value="Categorize New Member Kata Solution" />
     <MESSAGE value="Return Negative Kata Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Return Negative Kata Start" />
+    <MESSAGE value="Return Negative Kata Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Return Negative Kata Solution" />
   </component>
 </project>
