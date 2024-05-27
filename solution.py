@@ -1,2 +1,2 @@
-def solution(text: str, ending):
-    return text.endswith(ending)
+def dna_to_rna(dna):
+    return
