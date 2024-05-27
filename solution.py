@@ -1,3 +1,2 @@
-def solution(text, ending):
-    # your code here...
-    pass
+def solution(text: str, ending):
+    return text.endswith(ending)
