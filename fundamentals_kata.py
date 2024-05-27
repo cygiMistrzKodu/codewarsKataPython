@@ -1,10 +1,18 @@
 import codewars_test as test
-from solution import dna_to_rna
+from solution import xo
 
-@test.describe("Sample Tests")
-def basic_tests():
-    @test.it('Basic Test Cases')
-    def basic_test_cases():
-        test.assert_equals(dna_to_rna("TTTT"), "UUUU")
-        test.assert_equals(dna_to_rna("GCAT"), "GCAU")
-        test.assert_equals(dna_to_rna("GACCGCCGCC"), "GACCGCCGCC")
+@test.describe("Sample tests")
+def _():
+    test_cases = [
+        ("ooxx",    True),
+        ("xooxx",   False),
+        ("ooxXm",   True), # Comparison is case-insensitive
+        ("zpzpzpp", True), # when no 'x' and 'o' is present should return true
+        ("zzoo",    False),
+        ("oxOx",    True),
+        ("",        True),  # Empty string contains equal amount of x and o
+    ]
+    for s, expected in test_cases:
+        @test.it(f"{s = }")
+        def _():
+            test.assert_equals(xo(s), expected)
