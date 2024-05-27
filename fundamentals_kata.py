@@ -1,18 +1,13 @@
 import codewars_test as test
-from solution import xo
+from solution import repeat_sequence_len
 
-@test.describe("Sample tests")
-def _():
-    test_cases = [
-        ("ooxx",    True),
-        ("xooxx",   False),
-        ("ooxXm",   True), # Comparison is case-insensitive
-        ("zpzpzpp", True), # when no 'x' and 'o' is present should return true
-        ("zzoo",    False),
-        ("oxOx",    True),
-        ("",        True),  # Empty string contains equal amount of x and o
-    ]
-    for s, expected in test_cases:
-        @test.it(f"{s = }")
-        def _():
-            test.assert_equals(xo(s), expected)
+@test.describe("Fixed Tests")
+def fixed_tests():
+    @test.it("Basic Test Cases")
+    def basic_test_cases():
+        test.assert_equals(repeat_sequence_len(1), 1)
+        test.assert_equals(repeat_sequence_len(85), 8)
+        test.assert_equals(repeat_sequence_len(810), 8)
+        test.assert_equals(repeat_sequence_len(812), 8)
+        test.assert_equals(repeat_sequence_len(818), 1)
+        test.assert_equals(repeat_sequence_len(833), 1)
