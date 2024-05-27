@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="DNA to RNA Conversion Kata solution">
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Exes and Ohs Kata start">
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716812362829</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Exes and Ohs Kata start">
+      <option name="closed" value="true" />
+      <created>1716812631659</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716812631659</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +257,7 @@
     <MESSAGE value="String ends with? Kata solution" />
     <MESSAGE value="DNA to RNA Conversion Kata start" />
     <MESSAGE value="DNA to RNA Conversion Kata solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="DNA to RNA Conversion Kata solution" />
+    <MESSAGE value="Exes and Ohs Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exes and Ohs Kata start" />
   </component>
 </project>
