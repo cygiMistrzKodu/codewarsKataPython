@@ -1,12 +1,13 @@
 import codewars_test as test
-from solution import rental_car_cost
+from solution import high_and_low
 
 
-@test.describe("Fixed Tests")
+@test.describe("Example Tests")
 def fixed_tests():
-    @test.it('Basic Test Cases')
+    @test.it('Test Case 1')
     def basic_test_cases():
-        test.assert_equals(rental_car_cost(1), 40)
-        test.assert_equals(rental_car_cost(4), 140)
-        test.assert_equals(rental_car_cost(7), 230)
-        test.assert_equals(rental_car_cost(8), 270)
+        test.assert_equals(high_and_low("8 3 -5 42 -1 0 0 -9 4 7 4 -4"), "42 -9");
+
+    @test.it('Test Case 2')
+    def basic_test_cases():
+        test.assert_equals(high_and_low("1 2 3"), "3 1");
