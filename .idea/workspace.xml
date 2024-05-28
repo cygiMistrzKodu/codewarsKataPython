@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Simple Fun #129: Repeat Sequence Length Kata solution not mine">
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Transportation on vacation Kata Start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716845316516</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Transportation on vacation Kata Start">
+      <option name="closed" value="true" />
+      <created>1716928335341</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1716928335341</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +303,7 @@
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata start" />
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata solution" />
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata solution not mine" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple Fun #129: Repeat Sequence Length Kata solution not mine" />
+    <MESSAGE value="Transportation on vacation Kata Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transportation on vacation Kata Start" />
   </component>
 </project>
