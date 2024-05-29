@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Removing Elements Kata start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Removing Elements Kata solution 2 not mine HA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +317,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716932415197</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Removing Elements Kata solution">
+      <option name="closed" value="true" />
+      <created>1717018312338</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717018312338</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Removing Elements Kata solution 2 not mine HA">
+      <option name="closed" value="true" />
+      <created>1717018347945</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1717018347945</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +371,8 @@
     <MESSAGE value="Remove the minimum Kata Start" />
     <MESSAGE value="Remove the minimum Kata solution" />
     <MESSAGE value="Removing Elements Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing Elements Kata start" />
+    <MESSAGE value="Removing Elements Kata solution" />
+    <MESSAGE value="Removing Elements Kata solution 2 not mine HA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing Elements Kata solution 2 not mine HA" />
   </component>
 </project>
