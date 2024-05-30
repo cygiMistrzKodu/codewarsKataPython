@@ -1,15 +1,11 @@
 import codewars_test as test
-from solution import litres
+from solution import sum_two_smallest_numbers
 
 
-@test.describe('Fixed tests')
-def basic_tests():
+@test.describe("Fixed Tests")
+def fixed_tests():
     @test.it('Basic Test Cases')
     def basic_test_cases():
-        test.assert_equals(litres(2), 1, 'should return 1 litre')
-        test.assert_equals(litres(1.4), 0, 'should return 0 litres')
-        test.assert_equals(litres(12.3), 6, 'should return 6 litres')
-        test.assert_equals(litres(0.82), 0, 'should return 0 litres')
-        test.assert_equals(litres(11.8), 5, 'should return 5 litres')
-        test.assert_equals(litres(1787), 893, 'should return 893 litres')
-        test.assert_equals(litres(0), 0, 'should return 0 litres')
+        test.assert_equals(sum_two_smallest_numbers([5, 8, 12, 18, 22]), 13)
+        test.assert_equals(sum_two_smallest_numbers([7, 15, 12, 18, 22]), 19)
+        test.assert_equals(sum_two_smallest_numbers([25, 42, 12, 18, 22]), 30)

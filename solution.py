@@ -1,5 +1,2 @@
-from math import floor
-
-
-def litres(time):
-    return floor(time * 0.5)
+def sum_two_smallest_numbers(numbers):
+    pass
