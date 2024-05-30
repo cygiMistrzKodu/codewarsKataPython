@@ -1,6 +1,7 @@
 import codewars_test as test
 from solution import find_next_square
 
+
 @test.describe("Fixed Tests")
 def fixed_tests():
     @test.it("should return the next square for perfect squares")

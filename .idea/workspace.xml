@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum of two lowest positive integers Kata solution" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Find the next perfect square! Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -365,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717089828184</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Find the next perfect square! Kata start">
+      <option name="closed" value="true" />
+      <created>1717090063956</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1717090063956</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -380,7 +392,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Return Negative Kata Solution" />
     <MESSAGE value="Tribonacci Sequence Kata start" />
     <MESSAGE value="Tribonacci Sequence Kata Solution" />
     <MESSAGE value="String ends with? Kata start" />
@@ -405,6 +416,7 @@
     <MESSAGE value="Keep Hydrated! Kata solution" />
     <MESSAGE value="Sum of two lowest positive integers Kata start" />
     <MESSAGE value="Sum of two lowest positive integers Kata solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of two lowest positive integers Kata solution" />
+    <MESSAGE value="Find the next perfect square! Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find the next perfect square! Kata start" />
   </component>
 </project>
