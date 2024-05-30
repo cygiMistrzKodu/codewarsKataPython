@@ -1,2 +1,5 @@
+from math import floor
+
+
 def litres(time):
-    return 0
+    return floor(time * 0.5)
