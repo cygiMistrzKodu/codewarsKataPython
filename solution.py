@@ -1,6 +1,3 @@
-import heapq
-
-
-def sum_two_smallest_numbers(numbers: [int]):
-    smallest_two_numbers = heapq.nsmallest(2, numbers)
-    return sum(smallest_two_numbers)
+def find_next_square(sq):
+    # Return the next square if sq is a square, -1 otherwise
+    return -1
