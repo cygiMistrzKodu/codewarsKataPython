@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Keep Hydrated! Kata start">
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum of two lowest positive integers Kata start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
@@ -34,18 +34,18 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.fundamentals_kata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.fundamentals_kata.executor": "Debug",
+    "Python.main.executor": "Run",
+    "Python.solution.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.fundamentals_kata">
     <configuration name="fundamentals_kata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fundamentals_kata" />
@@ -344,7 +344,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717018648324</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Keep Hydrated! Kata solution">
+      <option name="closed" value="true" />
+      <created>1717088536506</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717088536506</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Sum of two lowest positive integers Kata start">
+      <option name="closed" value="true" />
+      <created>1717088676534</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717088676534</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,8 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Categorize New Member Kata Start" />
-    <MESSAGE value="Categorize New Member Kata Solution" />
     <MESSAGE value="Return Negative Kata Start" />
     <MESSAGE value="Return Negative Kata Solution" />
     <MESSAGE value="Tribonacci Sequence Kata start" />
@@ -384,6 +398,24 @@
     <MESSAGE value="Removing Elements Kata solution" />
     <MESSAGE value="Removing Elements Kata solution 2 not mine HA" />
     <MESSAGE value="Keep Hydrated! Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Keep Hydrated! Kata start" />
+    <MESSAGE value="Keep Hydrated! Kata solution" />
+    <MESSAGE value="Sum of two lowest positive integers Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of two lowest positive integers Kata start" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solution.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solution.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
