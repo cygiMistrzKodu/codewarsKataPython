@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Break camelCase Kata start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Break camelCase Kata solution 2 ( not mine )" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -464,7 +461,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717164558017</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Break camelCase Kata solution">
+      <option name="closed" value="true" />
+      <created>1717165729883</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1717165729883</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Break camelCase Kata solution 2 ( not mine )">
+      <option name="closed" value="true" />
+      <created>1717165800285</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1717165800285</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,8 +492,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Transportation on vacation Kata Start" />
-    <MESSAGE value="Transportation on vacation Kata Stop" />
     <MESSAGE value="Highest and Lowest Kata Start" />
     <MESSAGE value="Highest and Lowest Kata Solution" />
     <MESSAGE value="Remove the minimum Kata Start" />
@@ -504,6 +515,8 @@
     <MESSAGE value="Reversed Strings Kata start" />
     <MESSAGE value="Reversed Strings Kata solution. Użycie wycinania" />
     <MESSAGE value="Break camelCase Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Break camelCase Kata start" />
+    <MESSAGE value="Break camelCase Kata solution" />
+    <MESSAGE value="Break camelCase Kata solution 2 ( not mine )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Break camelCase Kata solution 2 ( not mine )" />
   </component>
 </project>

@@ -1,11 +1,14 @@
 import codewars_test as test
-from solution import *
+from solution import printer_error
 
 
-@test.describe("Fixed Tests")
-def fixed_tests():
-    @test.it('Basic Test Cases')
-    def basic_test_cases():
-        test.assert_equals(solution("helloWorld"), "hello World")
-        test.assert_equals(solution("camelCase"), "camel Case")
-        test.assert_equals(solution("breakCamelCase"), "break Camel Case")
+@test.describe("printerź_error")
+def basic_tests():
+    @test.it('Example Test Cases')
+    def example_test_cases():
+        s = "aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz"
+        test.assert_equals(printer_error(s), "3/56")
+        s = "kkkwwwaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyz"
+        test.assert_equals(printer_error(s), "6/60")
+        s = "kkkwwwaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbmmmmmmmmmmmmmmmmmmmxyzuuuuu"
+        test.assert_equals(printer_error(s), "11/65")
