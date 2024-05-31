@@ -1,2 +1,2 @@
-def solution(string: str):
-    return string[::-1]
+def solution(s):
+    pass

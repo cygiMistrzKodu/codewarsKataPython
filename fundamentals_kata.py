@@ -1,12 +1,11 @@
 import codewars_test as test
-from solution import solution
+from solution import *
 
 
 @test.describe("Fixed Tests")
-def basic_tests():
+def fixed_tests():
     @test.it('Basic Test Cases')
     def basic_test_cases():
-        test.assert_equals(solution('world'), 'dlrow')
-        test.assert_equals(solution('hello'), 'olleh')
-        test.assert_equals(solution(''), '')
-        test.assert_equals(solution('h'), 'h')
+        test.assert_equals(solution("helloWorld"), "hello World")
+        test.assert_equals(solution("camelCase"), "camel Case")
+        test.assert_equals(solution("breakCamelCase"), "break Camel Case")
