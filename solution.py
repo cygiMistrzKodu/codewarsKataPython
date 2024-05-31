@@ -1,9 +1,2 @@
-import math
-
-
-def find_next_square(sq: int):
-
-    root = sq ** 0.5
-    if root.is_integer():
-        return (root + 1) ** 2
-    return -1
+def greet(name, owner):
+    pass

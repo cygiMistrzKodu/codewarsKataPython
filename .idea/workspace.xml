@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Find the next perfect square! Kata start">
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Find the next perfect square! Kata another solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +33,18 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.fundamentals_kata.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.solution.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.fundamentals_kata.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solution.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.fundamentals_kata">
     <configuration name="fundamentals_kata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fundamentals_kata" />
@@ -116,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fundamentals_kata" />
         <item itemvalue="Python.solution" />
+        <item itemvalue="Python.fundamentals_kata" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +375,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717090063956</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Find the next perfect square! Kata my solution">
+      <option name="closed" value="true" />
+      <created>1717097958659</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1717097958659</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Find the next perfect square! Kata another solution">
+      <option name="closed" value="true" />
+      <created>1717097993423</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1717097993423</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -392,8 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tribonacci Sequence Kata start" />
-    <MESSAGE value="Tribonacci Sequence Kata Solution" />
     <MESSAGE value="String ends with? Kata start" />
     <MESSAGE value="String ends with? Kata solution" />
     <MESSAGE value="DNA to RNA Conversion Kata start" />
@@ -417,6 +429,8 @@
     <MESSAGE value="Sum of two lowest positive integers Kata start" />
     <MESSAGE value="Sum of two lowest positive integers Kata solution" />
     <MESSAGE value="Find the next perfect square! Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Find the next perfect square! Kata start" />
+    <MESSAGE value="Find the next perfect square! Kata my solution" />
+    <MESSAGE value="Find the next perfect square! Kata another solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Find the next perfect square! Kata another solution" />
   </component>
 </project>
