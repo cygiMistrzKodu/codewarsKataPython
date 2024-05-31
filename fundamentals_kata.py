@@ -1,6 +1,7 @@
 import codewars_test as test
 from solution import solution
 
+
 @test.describe("Fixed Tests")
 def basic_tests():
     @test.it('Basic Test Cases')
