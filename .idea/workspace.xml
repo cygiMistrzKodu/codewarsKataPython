@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Century From Year Kata start">
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Century From Year Kata solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -431,7 +431,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717158401834</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Century From Year Kata solution">
+      <option name="closed" value="true" />
+      <created>1717159062326</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1717159062326</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -446,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Exes and Ohs Kata solution" />
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata start" />
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata solution" />
     <MESSAGE value="Simple Fun #129: Repeat Sequence Length Kata solution not mine" />
@@ -471,6 +478,7 @@
     <MESSAGE value="Volume of a Cuboid Kata start" />
     <MESSAGE value="Volume of a Cuboid Kata solution" />
     <MESSAGE value="Century From Year Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Century From Year Kata start" />
+    <MESSAGE value="Century From Year Kata solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Century From Year Kata solution" />
   </component>
 </project>
