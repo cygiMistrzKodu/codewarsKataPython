@@ -1,10 +1,10 @@
 import codewars_test as test
-from solution import greet
+from solution import get_volume_of_cuboid
 
 
-@test.describe("Fixed Tests")
-def fixed_tests():
-    @test.it('Basic Test Cases')
-    def basic_test_cases():
-        test.assert_equals(greet('Daniel', 'Daniel'), 'Hello boss')
-        test.assert_equals(greet('Greg', 'Daniel'), 'Hello guest')
+@test.describe('Testing...')
+def _():
+    @test.it('Sample tests')
+    def _():
+        test.assert_equals(get_volume_of_cuboid(1, 2, 2), 4)
+        test.assert_equals(get_volume_of_cuboid(6.3, 2, 5), 63)

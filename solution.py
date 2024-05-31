@@ -1,6 +1,3 @@
-def greet(name, owner):
-    hello = "Hello"
-    if name == owner:
-        return hello + " boss"
-    else:
-        return hello + " guest"
+def get_volume_of_cuboid(length, width, height):
+    # Code goes here...
+    pass
