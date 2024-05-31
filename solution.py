@@ -1,3 +1,2 @@
 def get_volume_of_cuboid(length, width, height):
-    # Code goes here...
-    pass
+    return length * width * height
