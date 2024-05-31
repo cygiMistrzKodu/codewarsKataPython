@@ -1,2 +1,6 @@
 def greet(name, owner):
-    pass
+    hello = "Hello"
+    if name == owner:
+        return hello + " boss"
+    else:
+        return hello + " guest"
