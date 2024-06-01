@@ -1,5 +1,2 @@
-import re
-
-
-def disemvowel(string_):
-    return re.sub("[aAeEiIoOuU]", "", string_)
+def boolean_to_string(b):
+    pass
