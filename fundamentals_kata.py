@@ -1,10 +1,15 @@
 import codewars_test as test
-from solution import boolean_to_string
+from solution import is_palindrome
 
 
 @test.describe("Fixed Tests")
 def fixed_tests():
-    @test.it('Basic Test Cases')
-    def basic_test_cases():
-        test.assert_equals(boolean_to_string(True), "True")
-        test.assert_equals(boolean_to_string(False), "False")
+    @test.describe('sample tests')
+    def sample_tests():
+        test.assert_equals(is_palindrome('a'), True)
+        test.assert_equals(is_palindrome('aba'), True)
+        test.assert_equals(is_palindrome('Abba'), True)
+        test.assert_equals(is_palindrome('malam'), True)
+        test.assert_equals(is_palindrome('walter'), False)
+        test.assert_equals(is_palindrome('kodok'), True)
+        test.assert_equals(is_palindrome('Kasue'), False)

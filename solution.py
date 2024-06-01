@@ -1,2 +1,2 @@
-def boolean_to_string(b):
-    return str(b)
+def is_palindrome(s):
+    return

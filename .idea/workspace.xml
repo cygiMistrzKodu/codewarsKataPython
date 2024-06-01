@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Convert a Boolean to a String Kata start" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Convert a Boolean to a String Kata solutiono">
+      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,14 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Categorize New Member Kata Start">
-      <option name="closed" value="true" />
-      <created>1715168204505</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1715168204505</updated>
     </task>
     <task id="LOCAL-00003" summary="Categorize New Member Kata Solution">
       <option name="closed" value="true" />
@@ -525,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717253247445</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Convert a Boolean to a String Kata solutiono">
+      <option name="closed" value="true" />
+      <created>1717253428795</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1717253428795</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Keep Hydrated! Kata start" />
     <MESSAGE value="Keep Hydrated! Kata solution" />
     <MESSAGE value="Sum of two lowest positive integers Kata start" />
     <MESSAGE value="Sum of two lowest positive integers Kata solution" />
@@ -565,6 +567,7 @@
     <MESSAGE value="Disemvowel Trolls Kata start" />
     <MESSAGE value="Disemvowel Trolls Kata solution" />
     <MESSAGE value="Convert a Boolean to a String Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Convert a Boolean to a String Kata start" />
+    <MESSAGE value="Convert a Boolean to a String Kata solutiono" />
+    <option name="LAST_COMMIT_MESSAGE" value="Convert a Boolean to a String Kata solutiono" />
   </component>
 </project>
