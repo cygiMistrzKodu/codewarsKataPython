@@ -1,6 +1,3 @@
-import re
+def zero_fuel(distance_to_pump, mpg, fuel_left):
+    pass
 
-
-def printer_error(s):
-    error_string_count = len(re.findall("[n-z]", s))
-    return str(error_string_count) + "/" + str(len(s))
