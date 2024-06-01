@@ -1,15 +1,19 @@
 import codewars_test as test
-from solution import is_palindrome
+from solution import fake_bin
 
 
 @test.describe("Fixed Tests")
 def fixed_tests():
-    @test.describe('sample tests')
-    def sample_tests():
-        test.assert_equals(is_palindrome('a'), True)
-        test.assert_equals(is_palindrome('aba'), True)
-        test.assert_equals(is_palindrome('Abba'), True)
-        test.assert_equals(is_palindrome('malam'), True)
-        test.assert_equals(is_palindrome('walter'), False)
-        test.assert_equals(is_palindrome('kodok'), True)
-        test.assert_equals(is_palindrome('Kasue'), False)
+    @test.it('Basic Test Cases')
+    def basic_test_cases():
+        tests = [
+            # [expected, input]
+            ["01011110001100111", "45385593107843568"],
+            ["101000111101101", "509321967506747"],
+            ["011011110000101010000011011", "366058562030849490134388085"],
+            ["01111100", "15889923"],
+            ["100111001111", "800857237867"],
+        ]
+
+        for exp, inp in tests:
+            test.assert_equals(fake_bin(inp), exp)
