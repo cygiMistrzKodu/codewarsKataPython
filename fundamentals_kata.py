@@ -1,19 +1,23 @@
 import codewars_test as test
-from solution import fake_bin
+from solution import is_triangle
 
 
 @test.describe("Fixed Tests")
 def fixed_tests():
     @test.it('Basic Test Cases')
     def basic_test_cases():
-        tests = [
-            # [expected, input]
-            ["01011110001100111", "45385593107843568"],
-            ["101000111101101", "509321967506747"],
-            ["011011110000101010000011011", "366058562030849490134388085"],
-            ["01111100", "15889923"],
-            ["100111001111", "800857237867"],
-        ]
-
-        for exp, inp in tests:
-            test.assert_equals(fake_bin(inp), exp)
+        test.assert_equals(is_triangle(1, 2, 2), True, "didn't work when sides were 1, 2, 2")
+        test.assert_equals(is_triangle(7, 2, 2), False, "didn't work when sides were 7, 2, 2")
+        test.assert_equals(is_triangle(1, 2, 3), False, "didn't work when sides were 1, 2, 3")
+        test.assert_equals(is_triangle(1, 3, 2), False, "didn't work when sides were 1, 3, 2")
+        test.assert_equals(is_triangle(3, 1, 2), False, "didn't work when sides were 3, 1, 2")
+        test.assert_equals(is_triangle(5, 1, 2), False, "didn't work when sides were 5, 1, 2")
+        test.assert_equals(is_triangle(1, 2, 5), False, "didn't work when sides were 1, 2, 5")
+        test.assert_equals(is_triangle(2, 5, 1), False, "didn't work when sides were 2, 5, 1")
+        test.assert_equals(is_triangle(4, 2, 3), True, "didn't work when sides were 4, 2, 3")
+        test.assert_equals(is_triangle(5, 1, 5), True, "didn't work when sides were 5, 1, 5")
+        test.assert_equals(is_triangle(2, 2, 2), True, "didn't work when sides were 2, 2, 2")
+        test.assert_equals(is_triangle(-1, 2, 3), False, "didn't work when sides were -1, 2, 3")
+        test.assert_equals(is_triangle(1, -2, 3), False, "didn't work when sides were 1, -2, 3")
+        test.assert_equals(is_triangle(1, 2, -3), False, "didn't work when sides were 1, 2, -3")
+        test.assert_equals(is_triangle(0, 2, 3), False, "didn't work when sides were 0, 2, 3")
