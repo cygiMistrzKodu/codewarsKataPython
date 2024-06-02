@@ -1,12 +1,9 @@
 def basic_op(operator, value1, value2):
-    match operator:
-        case "+":
-            return value1 + value2
-        case "-":
-            return value1 - value2
-        case "*":
-            return value1 * value2
-        case "/":
-            return value1 / value2
-        case _:
-            return 0
+    op = {
+        '+': (value1 + value2),
+        '-': (value1 - value2),
+        '*': (value1 * value2),
+        '/': (value1 / value2),
+    }
+
+    return op[operator]
