@@ -1,2 +1,12 @@
 def basic_op(operator, value1, value2):
-    pass
+    match operator:
+        case "+":
+            return value1 + value2
+        case "-":
+            return value1 - value2
+        case "*":
+            return value1 * value2
+        case "/":
+            return value1 / value2
+        case _:
+            return 0
