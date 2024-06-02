@@ -1,12 +1,14 @@
 import codewars_test as test
-from solution import basic_op
+from solution import hero
 
 
 @test.describe("Fixed Tests")
 def fixed_tests():
     @test.it('Basic Test Cases')
     def basic_test_cases():
-        test.assert_equals(basic_op('+', 4, 7), 11)
-        test.assert_equals(basic_op('-', 15, 18), -3)
-        test.assert_equals(basic_op('*', 5, 5), 25)
-        test.assert_equals(basic_op('/', 49, 7), 7)
+        test.assert_equals(hero(10, 5), True)
+        test.assert_equals(hero(7, 4), False)
+        test.assert_equals(hero(4, 5), False)
+        test.assert_equals(hero(100, 40), True)
+        test.assert_equals(hero(1500, 751), False)
+        test.assert_equals(hero(0, 1), False)
