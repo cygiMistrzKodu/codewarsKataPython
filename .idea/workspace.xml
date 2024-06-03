@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Get the Middle Character Kata start">
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum without highest and lowest number Kata start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
@@ -135,22 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Highest and Lowest Kata Start">
-      <option name="closed" value="true" />
-      <created>1716929296174</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1716929296174</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Highest and Lowest Kata Solution">
-      <option name="closed" value="true" />
-      <created>1716930533444</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1716930533444</updated>
     </task>
     <task id="LOCAL-00021" summary="Remove the minimum Kata Start">
       <option name="closed" value="true" />
@@ -528,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717440264256</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Get the Middle Character Kata solution">
+      <option name="closed" value="true" />
+      <created>1717441295607</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1717441295607</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Sum without highest and lowest number Kata start">
+      <option name="closed" value="true" />
+      <created>1717441530053</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1717441530053</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Break camelCase Kata solution 2 ( not mine )" />
-    <MESSAGE value="Printer Errors Kata start" />
     <MESSAGE value="Printer Errors Kata solution" />
     <MESSAGE value="Will you make it? Kata start" />
     <MESSAGE value="Will you make it? Kata solution" />
@@ -568,6 +566,8 @@
     <MESSAGE value="Is it even? Kata start" />
     <MESSAGE value="Is it even? Kata solution" />
     <MESSAGE value="Get the Middle Character Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Get the Middle Character Kata start" />
+    <MESSAGE value="Get the Middle Character Kata solution" />
+    <MESSAGE value="Sum without highest and lowest number Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum without highest and lowest number Kata start" />
   </component>
 </project>
