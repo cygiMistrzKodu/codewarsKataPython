@@ -1,2 +1,2 @@
-def hero(bullets, dragons):
-    return dragons * 2 <= bullets
+def final_grade(exam, projects):
+    return # final grade
