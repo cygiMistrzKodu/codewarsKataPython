@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Is it even? Kata solution" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Get the Middle Character Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,14 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Transportation on vacation Kata Stop">
-      <option name="closed" value="true" />
-      <created>1716929105423</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1716929105423</updated>
     </task>
     <task id="LOCAL-00019" summary="Highest and Lowest Kata Start">
       <option name="closed" value="true" />
@@ -525,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717440181554</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Get the Middle Character Kata start">
+      <option name="closed" value="true" />
+      <created>1717440264256</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1717440264256</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Break camelCase Kata solution" />
     <MESSAGE value="Break camelCase Kata solution 2 ( not mine )" />
     <MESSAGE value="Printer Errors Kata start" />
     <MESSAGE value="Printer Errors Kata solution" />
@@ -565,6 +567,7 @@
     <MESSAGE value="Student's Final Grade Kata solution" />
     <MESSAGE value="Is it even? Kata start" />
     <MESSAGE value="Is it even? Kata solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Is it even? Kata solution" />
+    <MESSAGE value="Get the Middle Character Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get the Middle Character Kata start" />
   </component>
 </project>
