@@ -1,2 +1,2 @@
 def hero(bullets, dragons):
-    return
+    return dragons * 2 <= bullets
