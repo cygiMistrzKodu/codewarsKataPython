@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Student's Final Grade Kata start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Student's Final Grade Kata solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Simple Fun #129: Repeat Sequence Length Kata solution">
-      <option name="closed" value="true" />
-      <created>1716845101297</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1716845101297</updated>
     </task>
     <task id="LOCAL-00016" summary="Simple Fun #129: Repeat Sequence Length Kata solution not mine">
       <option name="closed" value="true" />
@@ -529,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717431605550</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Student's Final Grade Kata solution">
+      <option name="closed" value="true" />
+      <created>1717433118106</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1717433118106</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Reversed Strings Kata start" />
     <MESSAGE value="Reversed Strings Kata solution. Użycie wycinania" />
     <MESSAGE value="Break camelCase Kata start" />
     <MESSAGE value="Break camelCase Kata solution" />
@@ -569,6 +564,7 @@
     <MESSAGE value="Is he gonna survive? Kata start" />
     <MESSAGE value="Is he gonna survive? Kata solution" />
     <MESSAGE value="Student's Final Grade Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student's Final Grade Kata start" />
+    <MESSAGE value="Student's Final Grade Kata solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student's Final Grade Kata solution" />
   </component>
 </project>
