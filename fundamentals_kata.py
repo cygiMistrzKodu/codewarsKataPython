@@ -1,18 +1,13 @@
 import codewars_test as test
-from solution import is_even
+from solution import get_middle
 
 
-@test.describe('Fixed Tests')
-def fixed_tests():
-    @test.it('Basic Test Cases')
+@test.describe("Basic Tests")
+def basic_tests():
+    @test.it("Basic Tests")
     def basic_tests():
-        test.assert_equals(is_even(0), True)
-        test.assert_equals(is_even(0.5), False)
-        test.assert_equals(is_even(1), False)
-        test.assert_equals(is_even(2), True)
-        test.assert_equals(is_even(-4), True)
-        test.assert_equals(is_even(15), False)
-        test.assert_equals(is_even(20), True)
-        test.assert_equals(is_even(220), True)
-        test.assert_equals(is_even(222222221), False)
-        test.assert_equals(is_even(500000000), True)
+        test.assert_equals(get_middle("test"), "es")
+        test.assert_equals(get_middle("testing"), "t")
+        test.assert_equals(get_middle("middle"), "dd")
+        test.assert_equals(get_middle("A"), "A")
+        test.assert_equals(get_middle("of"), "of")
