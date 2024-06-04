@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sort the odd Kata start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sort the odd Kata other solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,22 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Sum of two lowest positive integers Kata start">
-      <option name="closed" value="true" />
-      <created>1717088676534</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1717088676534</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Sum of two lowest positive integers Kata solution">
-      <option name="closed" value="true" />
-      <created>1717089828184</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1717089828184</updated>
     </task>
     <task id="LOCAL-00030" summary="Find the next perfect square! Kata start">
       <option name="closed" value="true" />
@@ -528,7 +509,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717509718525</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Sort the odd Kata my solution">
+      <option name="closed" value="true" />
+      <created>1717515793331</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1717515793331</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Sort the odd Kata other solution">
+      <option name="closed" value="true" />
+      <created>1717515846563</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1717515846563</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Is it a palindrome? Kata start" />
-    <MESSAGE value="Is it a palindrome? Kata solution" />
     <MESSAGE value="Fake Binary Kata start" />
     <MESSAGE value="Fake Binary Kata solution" />
     <MESSAGE value="Is this a triangle? Kata start" />
@@ -568,6 +563,8 @@
     <MESSAGE value="Sum of odd numbers Kata my solution" />
     <MESSAGE value="Sum of odd numbers Kata another solution" />
     <MESSAGE value="Sort the odd Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort the odd Kata start" />
+    <MESSAGE value="Sort the odd Kata my solution" />
+    <MESSAGE value="Sort the odd Kata other solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort the odd Kata other solution" />
   </component>
 </project>
