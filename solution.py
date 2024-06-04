@@ -1,2 +1,2 @@
 def repeat_str(repeat, string):
-    return ''
+    return string * repeat
