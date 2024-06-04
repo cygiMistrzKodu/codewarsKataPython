@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum of odd numbers Kata start">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum of odd numbers Kata my solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Removing Elements Kata solution 2 not mine HA">
-      <option name="closed" value="true" />
-      <created>1717018347945</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1717018347945</updated>
     </task>
     <task id="LOCAL-00026" summary="Keep Hydrated! Kata start">
       <option name="closed" value="true" />
@@ -529,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717501911877</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Sum of odd numbers Kata my solution">
+      <option name="closed" value="true" />
+      <created>1717509424229</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1717509424229</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Disemvowel Trolls Kata solution" />
     <MESSAGE value="Convert a Boolean to a String Kata start" />
     <MESSAGE value="Convert a Boolean to a String Kata solutiono" />
     <MESSAGE value="Is it a palindrome? Kata start" />
@@ -569,6 +564,7 @@
     <MESSAGE value="String repeat Kata start" />
     <MESSAGE value="String repeat Kata solution" />
     <MESSAGE value="Sum of odd numbers Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of odd numbers Kata start" />
+    <MESSAGE value="Sum of odd numbers Kata my solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of odd numbers Kata my solution" />
   </component>
 </project>
