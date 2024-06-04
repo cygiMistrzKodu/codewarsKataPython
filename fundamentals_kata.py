@@ -1,6 +1,7 @@
 import codewars_test as test
 from solution import row_sum_odd_numbers
 
+
 @test.describe("Fixed Tests")
 def fixed_tests():
     @test.it('Basic Test Cases')
