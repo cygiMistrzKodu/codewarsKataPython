@@ -1,2 +1,2 @@
-def repeat_str(repeat, string):
-    return string * repeat
+def row_sum_odd_numbers(n):
+    pass

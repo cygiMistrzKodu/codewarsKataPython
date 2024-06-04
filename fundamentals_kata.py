@@ -1,11 +1,12 @@
 import codewars_test as test
-from solution import repeat_str
+from solution import row_sum_odd_numbers
 
-
-@test.describe('Fixed tests')
-def basic_tests():
+@test.describe("Fixed Tests")
+def fixed_tests():
     @test.it('Basic Test Cases')
     def basic_test_cases():
-        test.assert_equals(repeat_str(4, 'a'), 'aaaa')
-        test.assert_equals(repeat_str(3, 'hello '), 'hello hello hello ')
-        test.assert_equals(repeat_str(2, 'abc'), 'abcabc')
+        test.assert_equals(row_sum_odd_numbers(1), 1)
+        test.assert_equals(row_sum_odd_numbers(2), 8)
+        test.assert_equals(row_sum_odd_numbers(13), 2197)
+        test.assert_equals(row_sum_odd_numbers(19), 6859)
+        test.assert_equals(row_sum_odd_numbers(41), 68921)

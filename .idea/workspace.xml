@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum without highest and lowest number Kata solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="String repeat Kata solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,22 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Remove the minimum Kata solution">
-      <option name="closed" value="true" />
-      <created>1716932206058</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1716932206058</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Removing Elements Kata start">
-      <option name="closed" value="true" />
-      <created>1716932415197</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1716932415197</updated>
     </task>
     <task id="LOCAL-00024" summary="Removing Elements Kata solution">
       <option name="closed" value="true" />
@@ -528,7 +509,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717451540673</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="String repeat Kata start">
+      <option name="closed" value="true" />
+      <created>1717501589148</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1717501589148</updated>
+    </task>
+    <task id="LOCAL-00072" summary="String repeat Kata solution">
+      <option name="closed" value="true" />
+      <created>1717501860760</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1717501860760</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Will you make it? Kata start" />
-    <MESSAGE value="Will you make it? Kata solution" />
     <MESSAGE value="Disemvowel Trolls Kata start" />
     <MESSAGE value="Disemvowel Trolls Kata solution" />
     <MESSAGE value="Convert a Boolean to a String Kata start" />
@@ -568,6 +563,8 @@
     <MESSAGE value="Get the Middle Character Kata solution" />
     <MESSAGE value="Sum without highest and lowest number Kata start" />
     <MESSAGE value="Sum without highest and lowest number Kata solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum without highest and lowest number Kata solution" />
+    <MESSAGE value="String repeat Kata start" />
+    <MESSAGE value="String repeat Kata solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="String repeat Kata solution" />
   </component>
 </project>
