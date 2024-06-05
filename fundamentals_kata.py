@@ -1,11 +1,16 @@
 import codewars_test as test
-from solution import how_much_i_love_you
+from solution import sum_str
 
 
 @test.describe("Fixed Tests")
-def fixed_tests():
-    @test.it('Basic Test Cases')
-    def basic_test_cases():
-        test.assert_equals(how_much_i_love_you(7), "I love you")
-        test.assert_equals(how_much_i_love_you(3), "a lot")
-        test.assert_equals(how_much_i_love_you(6), "not at all")
+def basic_tests():
+    @test.it("Sample Tests")
+    def sample_tests():
+        test.assert_equals(sum_str("4", "5"), "9")
+        test.assert_equals(sum_str("34", "5"), "39")
+
+    @test.it("Tests with empty strings")
+    def empty_string():
+        test.assert_equals(sum_str("9", ""), "9", "x + empty = x")
+        test.assert_equals(sum_str("", "9"), "9", "empty + x = x")
+        test.assert_equals(sum_str("", ""), "0", "empty + empty = 0")
