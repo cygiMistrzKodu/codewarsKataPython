@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Sum The Strings Kata my solution" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Playing with passphrases Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,22 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Grasshopper - Personalized Message Kata solution">
-      <option name="closed" value="true" />
-      <created>1717157871135</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1717157871135</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Volume of a Cuboid Kata start">
-      <option name="closed" value="true" />
-      <created>1717157956219</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1717157956219</updated>
     </task>
     <task id="LOCAL-00036" summary="Volume of a Cuboid Kata solution">
       <option name="closed" value="true" />
@@ -525,7 +513,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717580786209</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Sum The Strings Kata other solution">
+      <option name="closed" value="true" />
+      <created>1717580850267</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1717580850267</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Playing with passphrases Kata start">
+      <option name="closed" value="true" />
+      <created>1717581121221</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1717581121221</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,8 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Basic Mathematical Operations Kata start" />
-    <MESSAGE value="Basic Mathematical Operations Kata solution" />
     <MESSAGE value="Basic Mathematical Operations Kata another interesting solution" />
     <MESSAGE value="Is he gonna survive? Kata start" />
     <MESSAGE value="Is he gonna survive? Kata solution" />
@@ -565,6 +567,8 @@
     <MESSAGE value="love you, a little , a lot, passionately ... not at all Kata solution" />
     <MESSAGE value="Sum The Strings Kata start" />
     <MESSAGE value="Sum The Strings Kata my solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum The Strings Kata my solution" />
+    <MESSAGE value="Sum The Strings Kata other solution" />
+    <MESSAGE value="Playing with passphrases Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Playing with passphrases Kata start" />
   </component>
 </project>

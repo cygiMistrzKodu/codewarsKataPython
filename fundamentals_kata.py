@@ -14,7 +14,7 @@ def fixed_tests():
                            "4897 NkTrC Hq fT67 GjV Pq aP OqTh gOcE CoPcTi aO")
         test.assert_equals(play_pass(
             "TO BE HONEST WITH YOU I DON'T USE THIS TEXT TOOL TOO OFTEN BUT HEY... MAYBE YOUR NEEDS ARE DIFFERENT.", 5),
-                           ".ySjWjKkNi jWf xIjJs wZtD JgDfR ...dJm yZg sJyKt tTy qTtY YcJy xNmY JxZ Y'StI N ZtD MyNb yXjStM Jg tY")
+            ".ySjWjKkNi jWf xIjJs wZtD JgDfR ...dJm yZg sJyKt tTy qTtY YcJy xNmY JxZ Y'StI N ZtD MyNb yXjStM Jg tY")
         test.assert_equals(
             play_pass("IN 2012 TWO CAMBRIDGE UNIVERSITY RESEARCHERS ANALYSED PASSPHRASES FROM THE AMAZON PAY SYSTEM...",
                       20),
@@ -32,7 +32,7 @@ def fixed_tests():
         test.assert_equals(play_pass(
             "FOR THIS REASON IT IS RECOMMENDED THAT PASSPHRASES NOT BE REUSED ACROSS DIFFERENT OR UNIQUE SITES AND SERVICES.",
             15),
-                           ".hTrXkGtH ScP HtIxH TjFxCj gD IcTgTuUxS HhDgRp sThJtG Tq iDc hThPgWeHhPe iPwI StScTbBdRtG Hx iX CdHpTg hXwI GdU")
+            ".hTrXkGtH ScP HtIxH TjFxCj gD IcTgTuUxS HhDgRp sThJtG Tq iDc hThPgWeHhPe iPwI StScTbBdRtG Hx iX CdHpTg hXwI GdU")
         test.assert_equals(play_pass("ONCE UPON A TIME YOU DRESSED SO FINE (1968)", 12),
                            ")1308( qZuR Ae pQeEqDp gAk qYuF M ZaBg qOzA")
         test.assert_equals(play_pass("AH, YOU'VE GONE TO THE FINEST SCHOOL ALL RIGHT, MISS LONELY", 12),
@@ -41,3 +41,8 @@ def fixed_tests():
             play_pass("THE SPECIES, NAMED AFTER THE GREEK GOD OF THE UNDERWORLD, LIVES SOME 3,600 FEET UNDERGROUND.",
                       8),
             ".LvCwZoZmLvC BmMn 993,6 mUwA AmDqT ,lTzWeZmLvC MpB Nw lWo sMmZo mPb zMbNi lMuIv ,AmQkMxA MpB")
+
+    @test.it('my test')
+    def basic_test_cases():
+        test.assert_equals(play_pass("Y", 4),
+                           "C")
