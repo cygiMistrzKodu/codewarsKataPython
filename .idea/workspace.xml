@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Playing with passphrases Kata my solution" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Grill it! Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,14 +136,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Century From Year Kata start">
-      <option name="closed" value="true" />
-      <created>1717158401834</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1717158401834</updated>
     </task>
     <task id="LOCAL-00038" summary="Century From Year Kata solution">
       <option name="closed" value="true" />
@@ -525,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717713876449</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Grill it! Kata start">
+      <option name="closed" value="true" />
+      <created>1717714091522</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1717714091522</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Is he gonna survive? Kata start" />
     <MESSAGE value="Is he gonna survive? Kata solution" />
     <MESSAGE value="Student's Final Grade Kata start" />
     <MESSAGE value="Student's Final Grade Kata solution" />
@@ -565,6 +568,7 @@
     <MESSAGE value="Sum The Strings Kata other solution" />
     <MESSAGE value="Playing with passphrases Kata start" />
     <MESSAGE value="Playing with passphrases Kata my solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Playing with passphrases Kata my solution" />
+    <MESSAGE value="Grill it! Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grill it! Kata start" />
   </component>
 </project>
