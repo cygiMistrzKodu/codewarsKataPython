@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Grill it! Kata my solution">
-      <change beforePath="$PROJECT_DIR$/fundamentals_kata.py" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals_kata.py" afterDir="false" />
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Testing 1-2-3 Kata start">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Reversed Strings Kata start">
-      <option name="closed" value="true" />
-      <created>1717164003164</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1717164003164</updated>
     </task>
     <task id="LOCAL-00040" summary="Reversed Strings Kata solution. Użycie wycinania">
       <option name="closed" value="true" />
@@ -527,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717775109794</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Testing 1-2-3 Kata start">
+      <option name="closed" value="true" />
+      <created>1717775284307</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1717775284307</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Student's Final Grade Kata start" />
     <MESSAGE value="Student's Final Grade Kata solution" />
     <MESSAGE value="Is it even? Kata start" />
     <MESSAGE value="Is it even? Kata solution" />
@@ -567,6 +567,7 @@
     <MESSAGE value="Playing with passphrases Kata my solution" />
     <MESSAGE value="Grill it! Kata start" />
     <MESSAGE value="Grill it! Kata my solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grill it! Kata my solution" />
+    <MESSAGE value="Testing 1-2-3 Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing 1-2-3 Kata start" />
   </component>
 </project>
