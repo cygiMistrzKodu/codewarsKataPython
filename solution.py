@@ -1,2 +1,3 @@
-def number(lines):
-    return [str(word_number) + ": " + word for word_number, word in enumerate(lines, 1)]
+def get_grade(s1, s2, s3):
+    # Code here
+    return "F"
