@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Testing 1-2-3 Kata start">
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Grasshopper - Grade book Kata start">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
     </list>
@@ -135,22 +135,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Reversed Strings Kata solution. Użycie wycinania">
-      <option name="closed" value="true" />
-      <created>1717164453371</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1717164453371</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Break camelCase Kata start">
-      <option name="closed" value="true" />
-      <created>1717164558017</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1717164558017</updated>
     </task>
     <task id="LOCAL-00042" summary="Break camelCase Kata solution">
       <option name="closed" value="true" />
@@ -528,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717775284307</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Testing 1-2-3 Kata solution">
+      <option name="closed" value="true" />
+      <created>1717841173094</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1717841173094</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Grasshopper - Grade book Kata start">
+      <option name="closed" value="true" />
+      <created>1717841249761</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1717841249761</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,8 +543,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Student's Final Grade Kata solution" />
-    <MESSAGE value="Is it even? Kata start" />
     <MESSAGE value="Is it even? Kata solution" />
     <MESSAGE value="Get the Middle Character Kata start" />
     <MESSAGE value="Get the Middle Character Kata solution" />
@@ -568,6 +566,8 @@
     <MESSAGE value="Grill it! Kata start" />
     <MESSAGE value="Grill it! Kata my solution" />
     <MESSAGE value="Testing 1-2-3 Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing 1-2-3 Kata start" />
+    <MESSAGE value="Testing 1-2-3 Kata solution" />
+    <MESSAGE value="Grasshopper - Grade book Kata start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grasshopper - Grade book Kata start" />
   </component>
 </project>
