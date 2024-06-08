@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Calculate BMI Kata start">
-      <change beforePath="$PROJECT_DIR$/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-    </list>
+    <list default="true" id="9fa858c5-2d31-448f-95cc-fc0d58745632" name="Changes" comment="Calculate BMI Kata solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,14 +132,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715165768228</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Printer Errors Kata start">
-      <option name="closed" value="true" />
-      <created>1717165969630</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1717165969630</updated>
     </task>
     <task id="LOCAL-00045" summary="Printer Errors Kata solution">
       <option name="closed" value="true" />
@@ -527,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717844950150</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Calculate BMI Kata solution">
+      <option name="closed" value="true" />
+      <created>1717845487352</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1717845487352</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -542,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Get the Middle Character Kata solution" />
     <MESSAGE value="Sum without highest and lowest number Kata start" />
     <MESSAGE value="Sum without highest and lowest number Kata solution" />
     <MESSAGE value="String repeat Kata start" />
@@ -567,6 +564,7 @@
     <MESSAGE value="Grasshopper - Grade book Kata start" />
     <MESSAGE value="Grasshopper - Grade book Kata solution" />
     <MESSAGE value="Calculate BMI Kata start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculate BMI Kata start" />
+    <MESSAGE value="Calculate BMI Kata solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculate BMI Kata solution" />
   </component>
 </project>
